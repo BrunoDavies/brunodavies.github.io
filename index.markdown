@@ -8,9 +8,9 @@ Hey, my name is Bruno Davies, I am currently an undergraduate student at the Uni
 * Getting ready for YII
 
 ### Current Book: 
-* [Leviathan Wakes](https://www.goodreads.com/book/show/11570641-leviathan-wakes) by James S.A Corey 
+* [Lord of the Flies](https://www.goodreads.com/book/show/7624.Lord_of_the_Flies?ac=1&from_search=true&qid=tnrq4c0AV9&rank=1) by William Golding
 
 ### Currently Learning: 
-* Japanese using the [Mass Immersion Approach](https://massimmersionapproach.com/)
-* Rust
-* Judo 
+* Docker
+* GoLang
+* Balance 
