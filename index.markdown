@@ -2,15 +2,17 @@
 layout: default
 title: "Bruno Davies"
 ---
-Hey, my name is Bruno Davies, I am currently an undergraduate student at the University at York - completing a placement year in Lhasa Limited as a Software Developer. 
+Hey, my name is Bruno Davies, I am currently an undergraduate student at the University at York - completing a placement year in Lhasa Limited as a placement software developer. 
 
-### Current Project: 
-* Getting ready for YII
+### Currently Doing: 
+* Working at [Lhasa Limited](https://www.lhasalimited.org/) as a placement software developer 
+* [Learning Solidity](https://github.com/BrunoDavies/Learning-Solidity) 
 
 ### Current Book: 
-* [Lord of the Flies](https://www.goodreads.com/book/show/7624.Lord_of_the_Flies?ac=1&from_search=true&qid=tnrq4c0AV9&rank=1) by William Golding
+* [Hands-On Smart Contract Development with Solidity and Ethereum: From Fundamentals to Deployment](https://g.co/kgs/sX8tXN) by David H. Hoover, Kevin Solorio, and Randall Kanna
 
 ### Currently Learning: 
 * Docker
-* GoLang
+* Solidity
+* Blockchain
 * Balance 
